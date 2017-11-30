@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093169340365",
+    "firebase_url": "https://delihamper-b81ae.firebaseio.com",
+    "project_id": "delihamper-b81ae",
+    "storage_bucket": "delihamper-b81ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093169340365:android:5420fc35fa5309c5",
+        "android_client_info": {
+          "package_name": "com.example.manthole.delihamper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093169340365-n4heht0oum9nssce4bohcrmf27sk0c13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manthole.delihamper",
+            "certificate_hash": "b3298fa65e96f946bee597667aa200dea38fc4df"
+          }
+        },
+        {
+          "client_id": "1093169340365-6nim40bq2k5drdkfjj3hrivp16b87fk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-ywRpRBK3KHNARVHYT6c7YobBoUP6KY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093169340365-6nim40bq2k5drdkfjj3hrivp16b87fk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
